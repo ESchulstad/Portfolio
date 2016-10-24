@@ -96,6 +96,7 @@
   <ItemGroup>
     <Content Include="Content\BankAccountPhoto1.jpg" />
     <Content Include="Content\ClosetAppPhoto.jpg" />
+    <Content Include="Content\Self.JPG" />
     <Content Include="Content\VirtualPetPhoto.jpg" />
     <Content Include="index.html" />
     <Content Include="packages.config" />
